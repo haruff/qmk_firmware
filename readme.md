@@ -1,3 +1,6 @@
+## This repsitory is mainly about customizing keymap over Corne Cherry V3.
+
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
